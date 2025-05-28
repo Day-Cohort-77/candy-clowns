@@ -17,7 +17,7 @@ for (const piece of database.candy) {
 
     // Concatenate the `allSections` variable with a new HTML section string
     allSections += `<section>
-    <h2>${piece.name}</h2>
+    <h1>${piece.name}</h1>
     Flavor is ${piece.flavor} and is colored ${piece.color}
     </section>`
 }
@@ -34,7 +34,7 @@ let allClownSections = ""
 
 for (const clown of database.clowns) {
     allClownSections += `<section>
-        <h2>${clown.name}</h2>
+        <h1>${clown.name}</h1>
         Specialty is ${clown.speciality} and wears size ${clown.shoeSize} shoe
     </section>`
 }
