@@ -9,7 +9,8 @@ export const database = {
         { id: 7, name: "Pie-In-The-Face Mints", flavor: "Vanilla Cream", clownId: 1, color: "White and fluffy", description: "Dissolves instantly with a puff of powdered sugar" },
         { id: 8, name: "Juggling Jellybeans", flavor: "Mixed Berry", clownId: 8, color: "Assorted bright colors", description: "Beans actually float and orbit each other when placed in palm" },
         { id: 9, name: "Big Top Toffee", flavor: "Peanut Butter", clownId: 4, color: "Striped red and white", description: "Wrapper unfolds into miniature circus tent" },
-        { id: 10, name: "Magic Pocket Chocolates", flavor: "Dark Chocolate", clownId: 11, color: "Deep chocolate brown", description: "Appears out of nowhere when hands are empty" }
+        { id: 10, name: "Magic Pocket Chocolates", flavor: "Dark Chocolate", clownId: 11, color: "Deep chocolate brown", description: "Appears out of nowhere when hands are empty" },
+        { id: 11, name: "Tickle Taffy", flavor: "Cotton Candy", clownId: 16, color: "Pink and blue stripes", description: "Makes you giggle every time you chew" }
     ],
     clowns: [
         { id: 1, name: "Bonkers", speciality: "Pratfalls", shoeSize: 32, favoriteJoke: "Why did the scarecrow win an award? Because he was outstanding in his field!" },
