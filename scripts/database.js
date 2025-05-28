@@ -26,6 +26,7 @@ export const database = {
         { id: 12, name: "Doodles", speciality: "Face Painting", shoeSize: 30, favoriteJoke: "Where do you find a dog with no legs? Right where you left him!" },
         { id: 13, name: "Wiggles", speciality: "Puppetry", shoeSize: 28, favoriteJoke: "What do you call a deer with no eyes? No eye deer!" },
         { id: 14, name: "Frizzle", speciality: "Stilt Walking", shoeSize: 36, favoriteJoke: "How do you catch a squirrel? Climb a tree and act like a nut!" },
-        { id: 15, name: "Cupcake", speciality: "Tiny Car Driving", shoeSize: 22, favoriteJoke: "Why don't eggs tell jokes? They'd crack each other up!" }
+        { id: 15, name: "Cupcake", speciality: "Tiny Car Driving", shoeSize: 22, favoriteJoke: "Why don't eggs tell jokes? They'd crack each other up!" },
+        { id: 16, name: "D-TRAIN", speciality: "Seltzer spray", shoeSize: 36, favoriteJoke: "What does that cloud look like to you? to me it looks like rain!" },
     ]
 };
